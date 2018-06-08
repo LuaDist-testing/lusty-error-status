@@ -1,9 +1,17 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "lusty-error-status"
 version = "0.2-1"
+-- LuaDist source
 source = {
-  url = "https://github.com/Olivine-Labs/lusty-error-status/archive/v0.2.tar.gz",
-  dir = "lusty-error-status-0.2"
+  tag = "0.2-1",
+  url = "git://github.com/LuaDist-testing/lusty-error-status.git"
 }
+-- Original source
+-- source = {
+--   url = "https://github.com/Olivine-Labs/lusty-error-status/archive/v0.2.tar.gz",
+--   dir = "lusty-error-status-0.2"
+-- }
 description = {
   summary = "error handling by status code.",
   detailed = [[
